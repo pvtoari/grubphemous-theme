@@ -1,0 +1,4 @@
+*.sh
+*.otf
+!install_theme.sh
+!choose_background.sh

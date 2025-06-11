@@ -53,7 +53,7 @@ By default, the background image is provided by `grubphemous/background.png` and
 * Alternatively, you can manually replace the `grubphemous/background.png` file within the theme's source directory with your desired PNG image and then copy the `grubphemous` folder to `/boot/grub/themes/` (or `/boot/grub2/themes/`).
 
 ## TODO
-- ~~If possible, add a children of the moonlight cursor at the right of the selection item (like the one in the game)~~ implemented by @sergoncano, thank you!
+- ~~If possible, add a children of the moonlight cursor at the right of the selection item (like the one in the game)~~ implemented by [@sergoncano](https://github.com/sergoncano), thank you!
 - Improve compatibility with other resolutions
 
 ## Credits

@@ -53,7 +53,8 @@ By default, the background image is provided by `grubphemous/background.png` and
 * Alternatively, you can manually replace the `grubphemous/background.png` file within the theme's source directory with your desired PNG image and then copy the `grubphemous` folder to `/boot/grub/themes/` (or `/boot/grub2/themes/`).
 
 ## TODO
-- If possible, add a children of the moonlight cursor at the right of the selection item (like the one in the game)
+- ~~If possible, add a children of the moonlight cursor at the right of the selection item (like the one in the game)~~ implemented by @sergoncano, thank you!
+- Improve compatibility with other resolutions
 
 ## Credits
 
@@ -63,6 +64,6 @@ By default, the background image is provided by `grubphemous/background.png` and
 
 ## License
 
-The "Blasphemous" font included in this theme ("Blasphemous" by Patrick H. Lauke) is licensed under the Creative Commons Attribution 3.0 License (see [`grubphemous/license.txt`](/home/pvtoari/repos/grubphemous-theme/grubphemous/license.txt)).
+The "Blasphemous" font included in this theme ("Blasphemous" by Patrick H. Lauke) is licensed under the Creative Commons Attribution 3.0 License.
 
 This project is licensed under the MIT license. See the `LICENSE` file for details.
